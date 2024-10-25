@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Code adapted from Mozzius' [site](https://github.com/mozzius/mozzius.dev).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Code adapted from Mozzius' [site](https://github.com/mozzius/mozzius.dev). This takes your [whitewind](https://whtwnd.com/) posts hosted on your PDS and displays them with the NextJS site.
 
 ## Getting Started
 
