@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import Image from "next/image";
-import { XRPC } from "@atcute/client"; // try this in future
 
 const CACHE_EXPIRY_MS = 24 * 60 * 60 * 1000; // 24 hours
 
